@@ -6,7 +6,7 @@ Welcome to my personal portfolio website! This project showcases my skills, expe
 
 ## 🌐 Live Preview
 
-Check it out here 👉 [MD Alfahad Portfolio](https://your-deployment-link.com)
+Check it out here 👉 [MD Alfahad Portfolio](https://mdalfahad.github.io/Portfoli-Alfahad/)
 
 ---
 
@@ -44,12 +44,6 @@ Feel free to connect with me:
 - 📸 [Instagram](https://www.instagram.com/al_fahad_008/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/md-alfahad-b56a48344/)
 - 🧑‍💻 [GitHub](https://github.com/MDAlfahad)
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
